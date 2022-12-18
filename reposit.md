@@ -1,9 +1,22 @@
 ## Репозиторий
+Для создания репозитория на [GitHub](/tasknumber3.14/github.md) нужно войти в систему, затем нажать на "New repository".
 
+### Далее заполняем поля: 
+- Repository name 
+- Description 
+- Пункт *"Public"* 
+- Флажок *"Initialize this repository with a README"* 
+- *"Create repository"*
+
+ Репозиторий создан! Теперь он доступен по адресу в браузере:   
+
+https://github.com/yournameongithub/nameofrepository 
+       
 Итак, после того как репозиторий был создан, с ним можно и нужно начинать работать.
 
 ### Базовые команды:
- - `git clone  https://github.com/ссылка на ваш репозиторий` создание копии главного репозитория
+
+ - `git clone  https://github.com/yournameongithub/nameofrepository` создание копии главного репозитория
  
 - `git add` добавление файла в git
 
