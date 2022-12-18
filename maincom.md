@@ -23,4 +23,4 @@
 -`git log` просмотр истории коммитов
 
 
-![git meme](/tasknumber3.14/FaqqDt0XoAMZX8V.jpeg)
+![git meme](FaqqDt0XoAMZX8V.jpeg)
